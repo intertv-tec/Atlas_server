@@ -22,5 +22,5 @@ Este sistema foi desenvolvido para monitorar automações, verificando se estão
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu_usuario/seu_repositorio.git
-   cd seu_repositorio
+   git clone https://github.com/intertv-tec/monitor_server.git
+   cd monitor_server
