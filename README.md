@@ -20,5 +20,5 @@ Este sistema foi desenvolvido para monitorar automações, verificando se estão
 
 ## Uso
 
-2. Ping 
+Ping 
 curl -X GET http://ip_do_servidor:8100/ping/id_da_automacao/senha_da_automacao/
