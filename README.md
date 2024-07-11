@@ -23,6 +23,8 @@ Este sistema foi desenvolvido para monitorar automações, verificando se estão
 Ping 
 - curl -X GET http://ip_do_servidor:8100/ping/id_da_automacao/senha_da_automacao/
 
+## Entrando no servidor
+![Login](https://github.com/intertv-tec/monitor_server/blob/main/print/login.png)
 
 ## Criando Usuário
 ![Usuario](https://github.com/intertv-tec/monitor_server/blob/main/print/novo_usuario.png)
