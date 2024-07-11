@@ -24,3 +24,6 @@ Este sistema foi desenvolvido para monitorar automações, verificando se estão
    ```sh
    git clone https://github.com/intertv-tec/monitor_server.git
    cd monitor_server
+
+2. Ping 
+curl -X GET http://ip_do_servidor:8100/ping/id_da_automacao/senha_da_automacao/
