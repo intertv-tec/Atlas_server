@@ -25,8 +25,9 @@ Ping
 
 
 ## Criando Usuário
-
-
+![Usuario](https://github.com/intertv-tec/monitor_server/blob/main/print/novo_usuario.png)
+![Usuario](https://github.com/intertv-tec/monitor_server/blob/main/print/novo_usuario2.png)
 
 ## Criando Automação
-
+![Automacao](https://github.com/intertv-tec/monitor_server/blob/main/print/automacao.png)
+![Automacao](https://github.com/intertv-tec/monitor_server/blob/main/print/nova_automacao.png)
