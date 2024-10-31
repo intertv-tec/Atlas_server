@@ -1,0 +1,1379 @@
+Watching for file changes with StatReloader
+[22/Jul/2024 11:34:03] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:34:06] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[22/Jul/2024 11:34:06] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[22/Jul/2024 11:34:06] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[22/Jul/2024 11:34:08] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[22/Jul/2024 11:34:08] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:34:08] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:09] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:34:10] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[22/Jul/2024 11:34:12] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:34:13] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[22/Jul/2024 11:34:13] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:34:13] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[22/Jul/2024 11:34:13] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[22/Jul/2024 11:34:13] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:41:04] "GET / HTTP/1.1" 302 0
+[22/Jul/2024 11:41:05] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:41:05] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[22/Jul/2024 11:41:05] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:41:20] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:41:22] "GET / HTTP/1.1" 302 0
+[22/Jul/2024 11:41:22] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:41:26] "GET /admin/auth/user/ HTTP/1.1" 200 8537
+[22/Jul/2024 11:41:26] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:41:26] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:41:28] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:41:28] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:41:38] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:41:38] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:41:40] "GET / HTTP/1.1" 302 0
+[22/Jul/2024 11:41:40] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:42:17] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:42:20] "GET /admin/logout/ HTTP/1.1" 200 1555
+[22/Jul/2024 11:42:23] "GET /admin/ HTTP/1.1" 302 0
+[22/Jul/2024 11:42:24] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2238
+[22/Jul/2024 11:42:24] "GET /admin/ HTTP/1.1" 302 0
+[22/Jul/2024 11:42:25] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2238
+[22/Jul/2024 11:42:26] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[22/Jul/2024 11:42:45] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[22/Jul/2024 11:42:45] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:42:48] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:42:48] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:43:02] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:43:09] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:43:09] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:43:13] "GET / HTTP/1.1" 302 0
+[22/Jul/2024 11:43:13] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:43:20] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:43:20] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:43:55] "GET /admin/server/ HTTP/1.1" 200 2818
+[22/Jul/2024 11:43:56] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:43:57] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:43:58] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:44:00] "GET /admin/server/automation/3/change/ HTTP/1.1" 200 7685
+[22/Jul/2024 11:44:00] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:44:00] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[22/Jul/2024 11:44:00] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[22/Jul/2024 11:44:00] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[22/Jul/2024 11:44:00] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[22/Jul/2024 11:44:00] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[22/Jul/2024 11:44:01] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[22/Jul/2024 11:44:01] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:44:01] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[22/Jul/2024 11:44:04] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:44:06] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:44:06] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:44:33] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:44:33] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:45:41] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:47:43] "GET / HTTP/1.1" 302 0
+[22/Jul/2024 11:47:43] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:48:37] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x97\x0e2âÚE\x9f')
+[22/Jul/2024 11:48:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[22/Jul/2024 11:48:37] code 400, message Bad request syntax ('\x16\x03\x01\x02:\x01\x00\x026\x03\x03Ê>\x0eâ\x99<ï®è^·Èú£\x18QÁ½IjI-FÛÅ#êï:#\x85Ë ?\x97´KÙ ô{\x02j\x15¹âÄ\x983Úe6\x0czy\x99S\x91ø\x9cÙëLÈh\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01ÍÊÊ\x00\x00\x00')
+[22/Jul/2024 11:48:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[22/Jul/2024 11:48:37] "GET / HTTP/1.1" 302 0
+[22/Jul/2024 11:48:37] "GET /admin/ HTTP/1.1" 302 0
+[22/Jul/2024 11:48:37] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2238
+[22/Jul/2024 11:48:37] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[22/Jul/2024 11:48:37] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[22/Jul/2024 11:48:37] "GET /static/admin/css/login.css HTTP/1.1" 200 939
+[22/Jul/2024 11:48:37] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[22/Jul/2024 11:48:37] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[22/Jul/2024 11:48:37] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[22/Jul/2024 11:48:37] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[22/Jul/2024 11:48:37] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[22/Jul/2024 11:48:37] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ã´µåÖ\x01#yoð\x12£\x04\x17ü\x11\x8d&j\x06Â;Î{ñ\x87Ñ\x14¤aÃ\t \x94ºÙ\x91©êt\x84>\x93\x89î\x97\x17\x13²òe?7\x1e\x97¢-Y#$LE5\x02º\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x003\x00+\x00)**\x00\x01\x00\x00\x1d\x00 p¤ë±Mm9q\x9a\x13Ü\x8e@`g:°\x1e\x12\\1¯Ý\x15G\x9c\xa09UÄÉC\x00')
+[22/Jul/2024 11:48:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /favicon.ico
+[22/Jul/2024 11:48:37] "GET /favicon.ico HTTP/1.1" 404 2663
+[22/Jul/2024 11:48:37] code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03v\x80´\x87x6Ýõ¥5çH¸JJ'ÇY")
+[22/Jul/2024 11:48:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[22/Jul/2024 11:49:02] code 400, message Bad request version ('Ì%émÖ«[\x94³\x08$";{°D¸[÷\x14¡õ\x06çù²\x84X\x06\x95\x01ß\x00')
+[22/Jul/2024 11:49:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[22/Jul/2024 11:49:02] code 400, message Bad request syntax ('\x16\x03\x01\x02:\x01\x00\x026\x03\x03lÀ\x97cíwÐ\x1c<\x1b\x1c\x88s\x1f!¥\r\x025E4YZÉ÷Èò\x9füXð/ *\x0cÏþM\x06\rÈV1í¼q Yå\x0b\x8clï®H\x86Wª*ß\x92\x83\xad\x84<\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Íúú\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00\r\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00-\x00\x02\x01\x01\x00\x0b\x00\x02\x01\x00þ\r\x01\x1a\x00\x00\x01\x00\x01|\x00 çØç3\x1c¿\x89\x99[H¹\x8b!§ì\x18(\x89ZË\x1f')
+[22/Jul/2024 11:49:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[22/Jul/2024 11:49:03] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[22/Jul/2024 11:49:03] "GET /admin/ HTTP/1.1" 200 5039
+[22/Jul/2024 11:49:03] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[22/Jul/2024 11:49:03] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[22/Jul/2024 11:49:03] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[22/Jul/2024 11:49:03] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[22/Jul/2024 11:49:07] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:49:07] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[22/Jul/2024 11:49:07] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[22/Jul/2024 11:49:07] "GET /static/admin/js/actions.js HTTP/1.1" 200 7867
+[22/Jul/2024 11:49:07] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[22/Jul/2024 11:49:07] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[22/Jul/2024 11:49:07] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:49:07] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[22/Jul/2024 11:49:07] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[22/Jul/2024 11:49:07] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[22/Jul/2024 11:49:07] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[22/Jul/2024 11:49:07] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[22/Jul/2024 11:49:07] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[22/Jul/2024 11:49:07] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[22/Jul/2024 11:49:07] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[22/Jul/2024 11:49:14] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:49:14] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:49:26] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 11:49:26] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:50:36] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 11:50:36.905268) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 11:50:36] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 11:50:42] "GET /admin/server/automation/ HTTP/1.1" 200 8298
+[22/Jul/2024 11:50:42] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:50:57,654] - Broken pipe from ('192.100.4.125', 51532)
+
+[22/Jul/2024 11:50:57,655] - Broken pipe from ('192.100.4.125', 51544)
+
+[22/Jul/2024 11:50:57,657] - Broken pipe from ('192.100.4.125', 51542)
+
+[22/Jul/2024 11:50:57,658] - Broken pipe from ('192.100.4.125', 51560)
+
+[22/Jul/2024 11:50:57,658] - Broken pipe from ('192.100.4.125', 51534)
+
+[22/Jul/2024 11:50:57,659] - Broken pipe from ('192.100.4.125', 51540)
+
+[22/Jul/2024 11:51:14] "GET /admin/server/automation/ HTTP/1.1" 200 8298
+[22/Jul/2024 11:51:15] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:51:18] "GET /admin/server/automation/ HTTP/1.1" 200 8298
+[22/Jul/2024 11:51:18] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:51:23] "GET /admin/server/automation/2/change/ HTTP/1.1" 200 7721
+[22/Jul/2024 11:51:23] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 11:51:39] "GET /admin/server/automation/ HTTP/1.1" 200 8298
+[22/Jul/2024 11:51:39] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 12:03:31] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:03:31.593065) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:03:31] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:04:31] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:04:31.727213) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:04:31] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:05:31] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:05:31.860488) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:05:31] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:06:31] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:06:31.976230) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:06:31] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:07:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:07:32.108634) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:07:32] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:08:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:08:32.247195) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:08:32] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:09:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:09:32.380711) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:09:32] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:10:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:10:32.532166) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:10:32] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:11:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:11:32.678736) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:11:32] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:12:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:12:32.801293) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:12:32] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:13:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:13:32.926308) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:13:32] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:14:32] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:14:33.057504) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:14:33] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:15:33] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:15:33.198295) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:15:33] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:16:33] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:16:33.337042) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:16:33] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:17:33] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:17:33.466079) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:17:33] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:18:33] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:18:33.617307) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:18:33] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:19:33] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:19:33.745982) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:19:33] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:20:33] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:20:33.869670) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:20:33] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 12:21:33] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 12:21:34.018212) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 12:21:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 13:08:38] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 13:08:38.953403) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 13:08:38] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 13:09:39] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 13:09:39.083388) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 13:09:39] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 13:14:36] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 13:14:36] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 14:01:03] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 14:01:03.539985) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 14:01:03] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 14:08:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 14:08:48.900910) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 14:08:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[22/Jul/2024 15:06:54] "GET /admin/ HTTP/1.1" 200 5039
+Not Found: /favicon.ico
+[22/Jul/2024 15:06:54] "GET /favicon.ico HTTP/1.1" 404 2663
+[22/Jul/2024 15:06:56] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 15:06:56] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 15:13:53] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[22/Jul/2024 15:13:53] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[22/Jul/2024 17:29:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-22 17:29:56.669712) while time zone support is active.
+  RuntimeWarning)
+[22/Jul/2024 17:29:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 13:45:26,629] - Broken pipe from ('192.100.4.125', 52062)
+
+[23/Jul/2024 13:45:26,630] - Broken pipe from ('192.100.4.125', 52064)
+
+[23/Jul/2024 15:39:31] "GET /admin/ HTTP/1.1" 200 5039
+[23/Jul/2024 15:39:31] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[23/Jul/2024 15:39:31] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[23/Jul/2024 15:39:31] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[23/Jul/2024 15:39:31] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[23/Jul/2024 15:39:31] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[23/Jul/2024 15:39:32] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[23/Jul/2024 15:39:32] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[23/Jul/2024 15:39:32] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[23/Jul/2024 15:39:32] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[23/Jul/2024 15:39:32] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[23/Jul/2024 15:39:32] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[23/Jul/2024 15:39:32] "GET /favicon.ico HTTP/1.1" 404 2663
+[23/Jul/2024 15:45:17] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 15:45:17.956884) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 15:45:17] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 15:45:44] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 15:45:44.544663) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 15:45:44] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 15:46:44] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 15:46:44.711322) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 15:46:44] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 16:36:15] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 16:36:15.178262) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 16:36:15] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 17:11:25] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 17:11:25.334302) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 17:11:25] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 17:16:09] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 17:16:09.473822) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 17:16:09] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 17:41:15] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 17:41:15.792548) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 17:41:15] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 17:54:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 17:54:45.275893) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 17:54:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 17:55:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 17:55:56.752287) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 17:55:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[23/Jul/2024 17:56:12] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-23 17:56:12.592284) while time zone support is active.
+  RuntimeWarning)
+[23/Jul/2024 17:56:12] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 11:56:36] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 11:56:36.379383) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 11:56:36] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 11:59:19] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 11:59:19.171727) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 11:59:19] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 11:59:40] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 11:59:40.725099) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 11:59:40] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 12:00:18] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 12:00:18.470116) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 12:00:18] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 12:03:15] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 12:03:15.300958) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 12:03:15] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:15:22] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:15:22.155785) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:15:22] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:16:22] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:16:22.288841) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:16:22] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:40:07] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:40:07.567271) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:40:07] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:40:21] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:40:21.327334) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:40:21] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:45:00] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:45:00.135011) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:45:00] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:49:00] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:49:00.746908) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:49:00] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:50:43] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:50:43.529642) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:50:43] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 13:51:43] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 13:51:43.654929) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 13:51:43] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:02:54] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:02:54.579694) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:02:54] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:05:10] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:05:10.683550) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:05:10] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:06:10] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:06:10.840741) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:06:10] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:06:21] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:06:21.078077) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:06:21] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:07:21] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:07:21.219955) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:07:21] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:08:55] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:08:55.549984) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:08:55] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:09:55] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:09:55.681891) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:09:55] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:10:55] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:10:55.831154) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:10:55] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:11:55] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:11:55.966936) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:11:55] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:12:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:12:56.108954) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:12:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:13:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:13:56.248723) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:13:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:14:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:14:56.395729) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:14:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:15:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:15:56.530264) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:15:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:16:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:16:56.677928) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:16:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:17:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:17:56.830652) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:17:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:18:56] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:18:56.968259) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:18:56] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:19:57] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:19:57.112915) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:19:57] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:20:57] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:20:57.248894) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:20:57] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:21:57] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:21:57.378852) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:21:57] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:22:57] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:22:57.506572) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:22:57] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:23:57] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:23:57.686018) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:23:57] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:24:57] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:24:57.814914) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:24:57] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:25:57] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:25:57.961086) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:25:57] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:26:58] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:26:58.104745) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:26:58] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:27:58] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:27:58.224257) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:27:58] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:28:37] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:28:37.063553) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:28:37] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:29:37] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:29:37.191628) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:29:37] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:30:37] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:30:37.323071) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:30:37] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:31:26] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:31:26.098186) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:31:26] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:32:26] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:32:26.222414) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:32:26] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:33:26] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:33:26.371071) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:33:26] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:34:26] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:34:26.513577) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:34:26] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:35:23] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:35:23.171155) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:35:23] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:36:23] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:36:23.310529) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:36:23] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:36:44] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:36:44.759929) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:36:44] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:37:44] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:37:44.898758) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:37:44] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:38:44] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:38:45.030115) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:38:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:39:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:39:45.171272) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:39:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:40:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:40:45.318925) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:40:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:41:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:41:45.449907) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:41:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:42:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:42:45.573983) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:42:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:43:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:43:45.718199) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:43:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:44:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:44:45.862566) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:44:45] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:45:45] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:45:46.022641) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:45:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:46:46] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:46:46.171191) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:46:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:47:46] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:47:46.302411) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:47:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:48:46] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:48:46.449799) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:48:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:49:46] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:49:46.842034) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:49:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:50:46] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:50:46.988547) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:50:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:51:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:51:47.124256) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:51:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:52:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:52:47.268100) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:52:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:53:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:53:47.407337) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:53:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:54:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:54:47.543543) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:54:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:55:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:55:47.684087) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:55:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:56:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:56:47.822944) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:56:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:57:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:57:47.972749) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:57:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:58:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:58:48.105604) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:58:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 15:59:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 15:59:48.246579) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 15:59:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:00:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:00:48.366174) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:00:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:01:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:01:48.503502) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:01:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:02:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:02:48.645075) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:02:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:03:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:03:48.780013) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:03:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:04:48] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:04:48.933794) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:04:48] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:05:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:05:49.070782) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:05:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:06:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:06:49.209745) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:06:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:07:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:07:49.354749) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:07:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:08:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:08:49.544056) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:08:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:09:10] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:09:10.100966) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:09:10] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:10:10] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:10:10.236838) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:10:10] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:11:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:11:34.982009) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:11:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:12:35] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:12:35.118911) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:12:35] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:13:35] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:13:35.250910) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:13:35] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:14:35] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:14:35.369222) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:14:35] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:14:47] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:14:47.399731) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:14:47] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:15:52] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:15:53.015893) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:15:53] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:16:53] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:16:53.147981) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:16:53] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:17:53] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:17:53.294853) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:17:53] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:18:37] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:18:37.131922) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:18:37] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:19:37] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:19:37.270761) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:19:37] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[24/Jul/2024 16:20:42] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-24 16:20:42.622631) while time zone support is active.
+  RuntimeWarning)
+[24/Jul/2024 16:20:42] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[26/Jul/2024 17:28:41] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-26 17:28:42.056526) while time zone support is active.
+  RuntimeWarning)
+[26/Jul/2024 17:28:42] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[26/Jul/2024 17:29:14] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-26 17:29:14.089147) while time zone support is active.
+  RuntimeWarning)
+[26/Jul/2024 17:29:14] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[26/Jul/2024 17:33:51] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-26 17:33:51.588865) while time zone support is active.
+  RuntimeWarning)
+[26/Jul/2024 17:33:51] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[26/Jul/2024 17:36:39] "GET / HTTP/1.1" 302 0
+[26/Jul/2024 17:36:39] "GET /admin/ HTTP/1.1" 302 0
+[26/Jul/2024 17:36:39] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2238
+[26/Jul/2024 17:36:39] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[26/Jul/2024 17:36:39] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[26/Jul/2024 17:36:39] "GET /static/admin/css/login.css HTTP/1.1" 200 939
+[26/Jul/2024 17:36:39] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[26/Jul/2024 17:36:40] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[26/Jul/2024 17:36:40] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[26/Jul/2024 17:36:40] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[26/Jul/2024 17:36:40] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+Not Found: /favicon.ico
+[26/Jul/2024 17:36:40] "GET /favicon.ico HTTP/1.1" 404 2663
+[26/Jul/2024 17:36:51] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[26/Jul/2024 17:36:51] "GET /admin/ HTTP/1.1" 200 5039
+[26/Jul/2024 17:36:51] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[26/Jul/2024 17:36:51] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[26/Jul/2024 17:36:51] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[26/Jul/2024 17:36:51] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[26/Jul/2024 17:36:58] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[26/Jul/2024 17:36:58] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[26/Jul/2024 17:36:58] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[26/Jul/2024 17:36:58] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[26/Jul/2024 17:36:58] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[26/Jul/2024 17:36:58] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[26/Jul/2024 17:36:58] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[26/Jul/2024 17:36:58] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[26/Jul/2024 17:36:58] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[26/Jul/2024 17:36:58] "GET /static/admin/js/actions.js HTTP/1.1" 200 7867
+[26/Jul/2024 17:36:58] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[26/Jul/2024 17:36:58] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[26/Jul/2024 17:36:58] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[26/Jul/2024 17:36:58] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[26/Jul/2024 17:36:58] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[26/Jul/2024 17:37:16] "GET /admin/server/automation/add/ HTTP/1.1" 200 7349
+[26/Jul/2024 17:37:16] "GET /static/admin/css/forms.css HTTP/1.1" 200 8804
+[26/Jul/2024 17:37:16] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[26/Jul/2024 17:37:16] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[26/Jul/2024 17:37:16] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[26/Jul/2024 17:37:16] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[26/Jul/2024 17:37:16] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[26/Jul/2024 17:37:16] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[26/Jul/2024 17:37:16] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[26/Jul/2024 17:37:16] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[26/Jul/2024 17:37:32] "POST /admin/server/automation/add/ HTTP/1.1" 302 0
+[26/Jul/2024 17:37:32] "GET /admin/server/automation/ HTTP/1.1" 200 8783
+[26/Jul/2024 17:37:32] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[26/Jul/2024 17:37:35] "GET /admin/server/automation/4/change/ HTTP/1.1" 200 7602
+[26/Jul/2024 17:37:35] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[26/Jul/2024 17:37:59] "GET /admin/server/automation/4/delete/ HTTP/1.1" 200 5016
+[26/Jul/2024 17:37:59] "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+[26/Jul/2024 17:38:01] "POST /admin/server/automation/4/delete/ HTTP/1.1" 302 0
+[26/Jul/2024 17:38:01] "GET /admin/server/automation/ HTTP/1.1" 200 8402
+[26/Jul/2024 17:38:01] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+Not Found: /ping/3
+[26/Jul/2024 17:38:17] "GET /ping/3 HTTP/1.1" 404 2648
+[26/Jul/2024 17:38:32] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[26/Jul/2024 17:38:37] "GET /admin/ HTTP/1.1" 200 5579
+[26/Jul/2024 17:38:37] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[26/Jul/2024 17:38:44] "GET /admin/server/automation/ HTTP/1.1" 200 8297
+[26/Jul/2024 17:38:44] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[29/Jul/2024 15:25:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:25:49.082763) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:25:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:26:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:26:49.230078) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:26:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:27:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:27:49.375707) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:27:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:28:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:28:49.518197) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:28:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:29:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:29:49.656021) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:29:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:30:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:30:49.785891) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:30:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:31:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:31:49.923261) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:31:49] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:32:49] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:32:50.062471) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:32:50] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:33:50] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:33:50.203136) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:33:50] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:34:58] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:34:58.336810) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:34:58] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:35:58] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:35:58.473081) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:35:58] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:36:58] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:36:58.616566) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:36:58] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:37:58] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:37:58.755841) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:37:58] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:39:46] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:39:46.152578) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:39:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:40:46] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:40:46.282515) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:40:46] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:41:25] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:41:25.219628) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:41:25] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:41:52] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:41:52.512090) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:41:52] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:42:52] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:42:52.647944) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:42:52] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:43:52] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:43:52.792876) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:43:52] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:44:04] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:44:04.676601) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:44:04] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:44:17] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:44:18.042986) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:44:18] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:45:18] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:45:18.191132) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:45:18] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:46:18] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:46:18.335977) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:46:18] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:47:18] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:47:18.474251) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:47:18] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:48:18] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:48:18.764675) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:48:18] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:49:18] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:49:18.916811) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:49:18] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:50:15] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:50:15.846284) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:50:15] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:51:15] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:51:15.998418) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:51:16] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:52:16] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:52:16.139314) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:52:16] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:53:16] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:53:16.307791) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:53:16] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 15:54:16] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 15:54:16.449986) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 15:54:16] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 16:55:10] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 16:55:10.726211) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 16:55:10] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 16:56:10] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 16:56:10.877368) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 16:56:10] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 16:57:10] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 16:57:11.018638) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 16:57:11] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 16:58:11] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 16:58:11.163418) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 16:58:11] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 16:58:43] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 16:58:43.638421) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 16:58:43] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 16:59:43] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 16:59:43.782329) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 16:59:43] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:00:43] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:00:43.932505) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:00:43] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:01:44] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:01:44.094374) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:01:44] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:02:31] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:02:31.962915) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:02:31] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:03:16] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:03:16.242059) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:03:16] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:03:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:03:34.159184) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:03:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:04:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:04:34.291642) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:04:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:05:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:05:34.423266) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:05:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:06:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:06:34.559383) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:06:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:07:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:07:34.704988) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:07:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:08:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:08:34.843481) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:08:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:17:34] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:17:34.610558) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:17:34] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:18:11] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:18:11.311169) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:18:11] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:19:11] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:19:11.456069) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:19:11] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:20:11] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:20:11.589213) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:20:11] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:21:11] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:21:11.724124) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:21:11] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:22:11] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:22:11.900114) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:22:11] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:23:11] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:23:12.041519) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:23:12] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:24:12] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:24:12.190344) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:24:12] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[29/Jul/2024 17:25:12] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-29 17:25:12.329967) while time zone support is active.
+  RuntimeWarning)
+[29/Jul/2024 17:25:12] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[30/Jul/2024 13:03:29] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-30 13:03:29.561221) while time zone support is active.
+  RuntimeWarning)
+[30/Jul/2024 13:03:29] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[30/Jul/2024 13:04:29] "GET /ping/3/RigelRobot2024@ HTTP/1.1" 301 0
+/home/suporte/servers/Atlas/venv/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Automation.last_ping received a naive datetime (2024-07-30 13:04:29.715071) while time zone support is active.
+  RuntimeWarning)
+[30/Jul/2024 13:04:29] "GET /ping/3/RigelRobot2024@/ HTTP/1.1" 200 17
+[30/Jul/2024 18:05:13] code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x9d\\è-z\x0e\x91´i.\x81\x00\x15Èây¯\x07|,<\x17É6A5% \x03«\x0cK ;M\x96ãYF\x18\x16\x9f'RúíKnÈ29Åø\x13ËÛ\x11\x8c")
+[30/Jul/2024 18:05:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 18:05:13] code 400, message Bad request version ('+Õ\x8f¶²\x84ÖÇÀÔÛ\x99}º|U)\x94')
+[30/Jul/2024 18:05:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 18:05:13] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03P1\x99¡ÿx¦åùg=ÌôþZ\x10\x83\x0bBË\x1e(MQq+\x1bçëN2\x1c ªÜÌ¼\rd\xadé%%\t¹1\x0cz0ÁÁ¥áºNÑe\x1b\x8d..\x12\x07\x04\x0c\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+[30/Jul/2024 18:05:13] code 400, message Bad request syntax ('\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03Ø@%ô\x10\\×¼!\x8aü\x82>¾H)\x18z°r$£csìÿÔ»\x08÷3\x9c ËlO\x1e(Nöºí<ï\x91»hä\\µ¡(\x9b\x1egÙ4\x89Í[|\x17¢·\x8d\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\xadZZ\x00\x00\x00-\x00\x02\x01\x01þ\r\x00ú\x00\x00\x01\x00\x01-\x00 \x08Mµ$°4ñY`DÂ(÷SO¹ùªr½\x8bXÆONMéÊ;\x86¾N\x00Ð\x07\x07Ø&oùhîa9å<\rOò\x94\x96¿9\x91å/\x19@ÕÇ\x81\x05õ(Ð«#sÄ\x9dMõ r\x98Ý78©\xad\x16\ts:pQ\x15$\x02"©¹\\~E\x97\tÚ\x18[\xa0m´\x9e\x17ã\xa0J\'\xa0\x01ÍkBIõ\x8an¸\x17\x02¢Ù\x02Æ\x1d\x8a\x88®xJw0b¯l£\x9aî\x19\r\x00òÍzBj8e\x87È\x93ÚøOØûæl\x8b\x91ÀÒméÇp\x16\x02{¦,.>\x0fçð_(ßøvl¡¤Îå\x14t\x18b¼E¹øÃQ¬Õ\x15Nâù\x82ý~×Z\x92ó\x1b¿^\x8dü!\x1efQ\x83°©ÇYt°Ñ\x97h\x0cÿ3\x87X7Ä\x12(Oâ\x84Êÿ\x01\x00\x01\x00\x00\x17\x00\x00Di\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06zz\x03\x04\x03\x03\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\r\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x003\x00+\x00)ÊÊ\x00\x01\x00\x00\x1d\x00 Kª\x9d°¨\x92\x0f\x14ñ\x80§Ç\x95!U\t\'\x17~ÀI\xa0\\\x96x\x83¾\x0eà0=A\x00\x0b\x00\x02\x01\x00\x00\x12\x00\x00\x00')
+[30/Jul/2024 18:05:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 18:05:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 18:05:20] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ö\x82è\x99J4\x95Éb4ÞJ\x01¦\x03¬\x87®c\x9aQ¯ ²_Àq¦¤ó\x00\x0e ¿d\x89Y\x9cï?8\x83\x187kl\x8c\x10 | =óaºÿÎWäè©ß\x8d\x9e`\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ºº\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00þ\r\x00Ú\x00\x00\x01\x00\x01ª\x00 à\x84p9\x00\x95N½¸\x87§F\x1c&õó¾Ü\x0e¾að8\x16ÓÝú·õNö\x1c\x00°ç5pP\x07s\x174\x9d®\x99Á\x08\x88\x9eÊe=Jî«\xa0àÝOêq]\x1f¬\x96Ö¾\x08\x9e¦\x14ôóÈO\x1f\x89\x06¢Ä&6àA_\x83G\x19Ø×<\x9aoMôB<oY\x03\x1asi§¬íq$IùlV¡Ø³h¾\x8e\x05º\x8eÃ »É\x00\x88ÝäÓ\x10\x8c\x8c~w\x0fò\x99B\x99LÄÏu')
+[30/Jul/2024 18:05:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 18:05:20] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ª\x85Oâ«f\x84Úh\x17kË¼\x12Ü³å\r$w0u\x82\x86Ä\x8dJz\x15{û§ å0¾\x88mô\x9bÏ_Süïi÷\x84u4½\x9fÐ\t\x15\x7f\x804\x06\x18Âh{R©\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00þ\r\x00º\x00\x00\x01\x00\x01ã\x00 \x83\x02Çîqï2Ã"®T\x05ó}D\x95ÚÖ²îó\x85G:óo2Ó\x0c¨u;\x00\x90\x82íõã}k\x11\x81£§\x9eæùÿPøÇ·±õÚ\x8c×tÝ0\xad\x8fS¼\x03¬>¼ôÃb\x0f0wÛ\x82å°~x\x12sÖ\x14Å@\x0c\x0eÁß\x8d®\x87ß\x001Æ¤\x18ðBÒ:Íóñ\x80\x1a\x0c¼ÚÔ|XÒ,3\x80A8"\x93uo\xa0û=Ò³\xa0Þ\x84\x83§ÀFÑþq\x9c\x9eON\x01·')
+[30/Jul/2024 18:05:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 18:05:20] code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¸RÖ÷\x10Éú\x89p\x13{ßÈP,[\x88_\x16u÷ªÕ\x1a[Ê£ºí\x88'¤ \x8dcÐàý\x88ñSv²Õc\x14\x15ï×Ç\x1f\x01W\x86¯\x1c\x0e*;qÐ\x1e\x00\x85Ü\x00 ")
+[30/Jul/2024 18:05:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 18:05:20] code 400, message Bad request syntax ('\x16\x03\x01\x02:\x01\x00\x026\x03\x03ø[Ï\x0c¯.R\tV:X*\x0eôN/Á\x9e\x08z¤©É7çfþ\x06¨µ\x14\x8f \x96\x95ý¡¶\x8eÞ\x0cÒØÓß\x9a\x01\x02ÐéFO\x89"f®\x0c¿#¬|¬udË\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01ÍJJ\x00\x00\x00\r\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x12\x00\x00\x00+\x00\x07\x06ºº\x03\x04\x03\x03\x00')
+[30/Jul/2024 18:05:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[30/Jul/2024 19:54:58] "GET / HTTP/1.1" 302 0
+[30/Jul/2024 19:54:58] "GET /admin/ HTTP/1.1" 200 5579
+[30/Jul/2024 19:54:58] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[30/Jul/2024 19:54:58] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[30/Jul/2024 19:54:58] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[30/Jul/2024 19:54:58] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[30/Jul/2024 19:54:58] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[30/Jul/2024 19:54:58] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[30/Jul/2024 19:54:59] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[30/Jul/2024 19:54:59] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[30/Jul/2024 19:54:59] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[30/Jul/2024 19:54:59] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[30/Jul/2024 19:54:59] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[30/Jul/2024 19:54:59] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+Not Found: /favicon.ico
+[30/Jul/2024 19:55:00] "GET /favicon.ico HTTP/1.1" 404 2663
+[30/Jul/2024 19:55:05] "GET /admin/server/automation/4/change/ HTTP/1.1" 302 0
+[30/Jul/2024 19:55:05] "GET /admin/ HTTP/1.1" 200 5753
+[30/Jul/2024 19:55:07] "GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+[30/Jul/2024 19:55:12] "GET /admin/server/automation/4/change/ HTTP/1.1" 302 0
+[30/Jul/2024 19:55:12] "GET /admin/ HTTP/1.1" 200 5753
+[30/Jul/2024 19:55:16] "GET /admin/server/automation/4/change/ HTTP/1.1" 302 0
+[30/Jul/2024 19:55:16] "GET /admin/ HTTP/1.1" 200 5753
+[30/Jul/2024 19:55:20] "GET /admin/server/automation/3/change/ HTTP/1.1" 200 7693
+[30/Jul/2024 19:55:20] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[30/Jul/2024 19:55:20] "GET /static/admin/css/forms.css HTTP/1.1" 200 8804
+[30/Jul/2024 19:55:20] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[30/Jul/2024 19:55:20] "GET /static/admin/js/actions.js HTTP/1.1" 200 7867
+[30/Jul/2024 19:55:20] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[30/Jul/2024 19:55:20] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[30/Jul/2024 19:55:20] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[30/Jul/2024 19:55:20] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[30/Jul/2024 19:55:20] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[30/Jul/2024 19:55:20] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[30/Jul/2024 19:55:20] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[30/Jul/2024 19:55:20] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[30/Jul/2024 19:55:20] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[30/Jul/2024 19:55:20] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[30/Jul/2024 19:55:20] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[30/Jul/2024 19:55:20] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[30/Jul/2024 19:55:20] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[30/Jul/2024 19:55:23] "GET /admin/ HTTP/1.1" 200 5579
+[30/Jul/2024 19:55:25] "GET /admin/server/automation/2/change/ HTTP/1.1" 200 7721
+[30/Jul/2024 19:55:25] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[30/Jul/2024 19:55:27] "GET /admin/ HTTP/1.1" 200 5579
+[30/Jul/2024 19:55:28] "GET /admin/server/automation/1/change/ HTTP/1.1" 200 7744
+[30/Jul/2024 19:55:28] "GET /admin/jsi18n/ HTTP/1.1" 200 8558
+[30/Jul/2024 19:55:31] "GET /admin/ HTTP/1.1" 200 5579
+[30/Jul/2024 19:55:32] "GET /admin/server/automation/4/change/ HTTP/1.1" 302 0
+[30/Jul/2024 19:55:33] "GET /admin/ HTTP/1.1" 200 5753
+[30/Jul/2024 19:55:41] "GET /admin/ HTTP/1.1" 200 5579
+[30/Jul/2024 19:55:49] "GET / HTTP/1.1" 302 0
+[30/Jul/2024 19:55:49] "GET /admin/ HTTP/1.1" 200 5579
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 19, 2024 - 17:47:41
+Django version 3.2.25, using settings 'main.settings'
+Starting development server at http://0.0.0.0:8100/
+Quit the server with CONTROL-C.
+ 
+Agora2024-07-22 14:34:02.997594+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:34:02.997594+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:34:02.997594+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:41:28.179959+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:41:28.179959+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:41:28.179959+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:41:38.233660+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:41:38.233660+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:41:38.233660+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:42:48.445265+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:42:48.445265+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:42:48.445265+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:43:09.248220+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:43:09.248220+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:43:09.248220+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:43:20.231818+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:43:20.231818+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:43:20.231818+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:43:57.883596+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:43:57.883596+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:43:57.883596+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:44:06.058642+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:44:06.058642+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:44:06.058642+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:44:33.561723+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:44:33.561723+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:44:33.561723+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:49:06.961507+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:49:06.961507+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:49:06.961507+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:49:14.774121+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:49:14.774121+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:49:14.774121+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:49:26.102041+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:49:26.102041+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:49:26.102041+00:00 
+
+ultimo 2024-07-19 20:02:29.522137+00:00
+ 
+Agora2024-07-22 14:50:42.168246+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:50:42.168246+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:50:42.168246+00:00 
+
+ultimo 2024-07-22 14:50:36.905268+00:00
+ 
+Agora2024-07-22 14:51:14.877762+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:51:14.877762+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:51:14.877762+00:00 
+
+ultimo 2024-07-22 14:50:36.905268+00:00
+ 
+Agora2024-07-22 14:51:17.980374+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:51:17.980374+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:51:17.980374+00:00 
+
+ultimo 2024-07-22 14:50:36.905268+00:00
+ 
+Agora2024-07-22 14:51:39.226333+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 14:51:39.226333+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 14:51:39.226333+00:00 
+
+ultimo 2024-07-22 14:50:36.905268+00:00
+ 
+Agora2024-07-22 16:14:36.032404+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 16:14:36.032404+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 16:14:36.032404+00:00 
+
+ultimo 2024-07-22 16:09:39.083388+00:00
+ 
+Agora2024-07-22 18:06:56.387633+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 18:06:56.387633+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 18:06:56.387633+00:00 
+
+ultimo 2024-07-22 17:08:48.900910+00:00
+ 
+Agora2024-07-22 18:13:53.775885+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-22 18:13:53.775885+00:00 
+
+ultimo None
+ 
+Agora2024-07-22 18:13:53.775885+00:00 
+
+ultimo 2024-07-22 17:08:48.900910+00:00
+ 
+Agora2024-07-26 20:36:58.439391+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-26 20:36:58.439391+00:00 
+
+ultimo None
+ 
+Agora2024-07-26 20:36:58.439391+00:00 
+
+ultimo 2024-07-26 20:33:51.588865+00:00
+ 
+Agora2024-07-26 20:37:32.252774+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-26 20:37:32.252774+00:00 
+
+ultimo None
+ 
+Agora2024-07-26 20:37:32.252774+00:00 
+
+ultimo 2024-07-26 20:33:51.588865+00:00
+ 
+Agora2024-07-26 20:37:32.252774+00:00 
+
+ultimo None
+ 
+Agora2024-07-26 20:38:01.786515+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-26 20:38:01.786515+00:00 
+
+ultimo None
+ 
+Agora2024-07-26 20:38:01.786515+00:00 
+
+ultimo 2024-07-26 20:33:51.588865+00:00
+ 
+Agora2024-07-26 20:38:32.558688+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-26 20:38:32.558688+00:00 
+
+ultimo None
+ 
+Agora2024-07-26 20:38:32.558688+00:00 
+
+ultimo 2024-07-26 20:33:51.588865+00:00
+ 
+Agora2024-07-26 20:38:44.068571+00:00 
+
+ultimo 2024-07-19 20:08:07.557762+00:00
+ 
+Agora2024-07-26 20:38:44.068571+00:00 
+
+ultimo None
+ 
+Agora2024-07-26 20:38:44.068571+00:00 
+
+ultimo 2024-07-26 20:33:51.588865+00:00

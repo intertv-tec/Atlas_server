@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'server'
+    'server',
+    'celulares'
 ]
 
 MIDDLEWARE = [
@@ -76,10 +77,18 @@ WSGI_APPLICATION = 'main.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'atlas_banco',
+        'USER': 'user',
+        'PASSWORD': 'InterTV@2014',
+        'HOST': '192.100.0.151',  # ou 'mysql_db' se estiver na mesma rede do container
+        'PORT': '3306',
+        'OPTIONS': {
+            'charset': 'utf8mb4',  # Adicione esta linha
+        },
     }
 }
+
 
 
 # Password validation
